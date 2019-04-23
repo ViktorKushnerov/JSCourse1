@@ -1,0 +1,22 @@
+{
+  "name": "jscourse1",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorKushnerov/JSCourse1.git"
+  },
+  "author": "VK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViktorKushnerov/JSCourse1/issues"
+  },
+  "homepage": "https://github.com/ViktorKushnerov/JSCourse1#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
